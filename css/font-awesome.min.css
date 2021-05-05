@@ -1,0 +1,16 @@
+@charset "utf-8";
+.top-navbar .navbar.navbar-expand-lg.navbar-light.bg-light #navbars-host .navbar-nav .nav-item .nav-link img {
+    font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial, sans-serif;
+}
+.all-title-box .container.text-center h1 {
+    font-family: Constantia, Lucida Bright, DejaVu Serif, Georgia, serif;
+}
+.top-navbar .navbar.navbar-expand-lg.navbar-light.bg-light #navbars-host .navbar-nav .nav-item .nav-link b {
+    font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial, sans-serif;
+}
+.top-navbar .navbar.navbar-expand-lg.navbar-light.bg-light #navbars-host .navbar-nav .nav-item .nav-link b {
+    font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black, sans-serif;
+}
+.top-navbar .navbar.navbar-expand-lg.navbar-light.bg-light #navbars-host .navbar-nav .nav-item .nav-link b {
+    font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
